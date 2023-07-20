@@ -1,4 +1,4 @@
-<div align="center"></div> <img  hight=400 width=400  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></div>
+<div class="item-center mx-auto justify-center"></div> <img  hight=400 width=400  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></div>
 <h1 align="center">😇😇 Hlw <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
                 width="30px">, I'm Ashvin Kumhar :)</h1>
 
