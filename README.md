@@ -12,29 +12,39 @@
 
 ## 🚀 Languages and Tools:
 
-<p>
-        <a href="https://reactjs.org/" target="_blank"> <img
-                        src="https://img.icons8.com/color/48/000000/react-native.png" /> </a>&nbsp;
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-                        src="https://img.icons8.com/color/48/000000/javascript.png" /> </a>&nbsp;
-        <a href="https://www.w3.org/html/" target="_blank"> <img
-                        src="https://img.icons8.com/color/48/000000/html-5.png" /> </a>&nbsp;
-        <a href="https://www.w3schools.com/css/" target="_blank"> <img
-                        src="https://img.icons8.com/color/48/000000/css3.png" /> </a>&nbsp;
-        <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img
-                        src="https://img.icons8.com/color/48/000000/nodejs.png" /> </a>&nbsp;
-        <a href="https://www.mongodb.com/" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb" width="48" height="48" /> </a>&nbsp;
-        <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" />
-        </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                        alt="cplusplus" width="40" height="40" /> </a>&nbsp;
-        <a href="https://www.cprogramming.com/" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                        width="40" height="40" /> </a>&nbsp;
-  <a href="https://expressjs.com" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                        alt="express" width="40" height="40" /></a>
-</p>
+<h3>Languages</h3>
+   <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-c.svg" alt="C++" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-java.svg" alt="Java" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-python.svg" alt="Python" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-git.svg" alt="Git">
+  </div>
+
+  <h3>Front-end development</h3>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-html.svg" alt="HTML" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-css.svg" alt="CSS" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-javascript.svg" alt="JavaScript" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-react.svg" alt="ReactJS" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-redux.svg" alt="Redux" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-nodejs.svg" alt="Node.js" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-typescript.svg" alt="TypeScript">
+  </div>
+
+  <h3>Back-end development</h3>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/MongoDB.png" alt="MongoDB" height=48 style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-amazon-web-services.svg" alt="AWS" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-firebase.svg" alt="Firebase" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-mysql.svg" alt="MySQL">
+  </div>
+
+  <h3>Other tools</h3>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-docker.svg" alt="Docker" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-jira.svg" alt="Jira" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-linux-48.png" alt="Linux" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-postman-48.png" alt="Postman">
+  </div> 
+</div>
+<br/>  
