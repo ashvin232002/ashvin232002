@@ -23,28 +23,28 @@
 
   <h3>Front-end development</h3>
   <div style="display: flex; justify-content: center;">
-    <img src="images/Tools/icons8-html.svg" alt="HTML" style="margin-right: 10px;">
-    <img src="images/Tools/icons8-css.svg" alt="CSS" style="margin-right: 10px;">
-    <img src="images/Tools/icons8-javascript.svg" alt="JavaScript" style="margin-right: 10px;">
-    <img src="images/Tools/icons8-react.svg" alt="ReactJS" style="margin-right: 10px;">
-    <img src="images/Tools/icons8-redux.svg" alt="Redux" style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-html.svg" alt="HTML" style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-css.svg" alt="CSS" style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-javascript.svg" alt="JavaScript" style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-react.svg" alt="ReactJS" style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-redux.svg" alt="Redux" style="margin-right: 10px;">
     
-    <img src="images/Tools/icons8-typescript.svg" alt="TypeScript">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-typescript.svg" alt="TypeScript">
   </div>
 
   <h3>Back-end development</h3>
   <div style="display: flex; justify-content: center;">
-    <img src="images/Tools/icons8-nodejs.svg" alt="Node.js" style="margin-right: 10px;">
-    <img src="images/Tools/MongoDB.png" alt="MongoDB" height=48 style="margin-right: 10px;">
-    <img src="images/Tools/icons8-amazon-web-services.svg" alt="AWS" style="margin-right: 10px;">
-    <img src="images/Tools/icons8-firebase.svg" alt="Firebase" style="margin-right: 10px;">
-    <img src="images/Tools/icons8-mysql.svg" alt="MySQL">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-nodejs.svg" alt="Node.js" style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/MongoDB.png" alt="MongoDB" height=48 style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-amazon-web-services.svg" alt="AWS" style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-firebase.svg" alt="Firebase" style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-mysql.svg" alt="MySQL">
   </div>
 
   <h3>Other tools</h3>
   <div style="display: flex; justify-content: center;">
-    <img src="images/Tools/icons8-git.svg" alt="Git">
-    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-postman-48.png" alt="Postman">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-git.svg" alt="Git">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-postman-48.png" alt="Postman">
   </div> 
 </div>
 <br/>  
