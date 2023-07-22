@@ -15,10 +15,10 @@
 <div align="center">
   <h3>Languages</h3>
    <div style="display: flex; justify-content: center;">
-    <img src="images/Tools/icons8-c.svg" alt="C++" style="margin-right: 10px;">
-    <img src="images/Tools/icons8-java.svg" alt="Java" style="margin-right: 10px;">
-    <img src="images/Tools/icons8-javascript.svg" alt="Javascript" style="margin-right: 10px;">
-    <img src="images/Tools/icons8-git.svg" alt="Git">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-c.svg" alt="C++" style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-java.svg" alt="Java" style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-javascript.svg" alt="Javascript" style="margin-right: 10px;">
+    <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-git.svg" alt="Git">
   </div>
 
   <h3>Front-end development</h3>
