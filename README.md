@@ -28,7 +28,6 @@
     <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-javascript.svg" alt="JavaScript" style="margin-right: 10px;">
     <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-react.svg" alt="ReactJS" style="margin-right: 10px;">
     <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-redux.svg" alt="Redux" style="margin-right: 10px;">
-    
     <img src="https://github.com/ashvin232002/ashvin232002/blob/master/Images/Tools/icons8-typescript.svg" alt="TypeScript">
   </div>
 
