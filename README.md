@@ -1,14 +1,50 @@
-<div class="item-center mx-auto justify-center"></div> <img  hight=400 width=400  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></div>
 <h1 align="center">😇😇 Hlw <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
                 width="30px">, I'm Ashvin Kumhar :)</h1>
 
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently working with **FullStack web Development (MERN)**
-- 👯 I’m looking for a  **SDE ROLE**
+- 👯 I’m looking to collaborate on **SDE ROLE**
 - 📫 How to reach me **ashvinkumhar2310@gmail.com** or **https://www.linkedin.com/in/ashvin-kumhar-0a34ab237/**
 - 🙋‍♂️  My Leetcode Profile  **https://leetcode.com/ashv_in23/**
 - 🙋‍♂️  My Codeforces Profile **https://codeforces.com/profile/ashvin_204**
 
 ## 🚀 Languages and Tools:
 
+<h2><strong>Languages and Tools</strong></h2>
+<div align="center">
+  <h3>Languages</h3>
+   <div style="display: flex; justify-content: center;">
+    <img src="images/Tools/icons8-c.svg" alt="C++" style="margin-right: 10px;">
+    <img src="images/Tools/icons8-java.svg" alt="Java" style="margin-right: 10px;">
+    <img src="images/Tools/icons8-javascript.svg" alt="Javascript" style="margin-right: 10px;">
+    <img src="images/Tools/icons8-git.svg" alt="Git">
+  </div>
+
+  <h3>Front-end development</h3>
+  <div style="display: flex; justify-content: center;">
+    <img src="images/Tools/icons8-html.svg" alt="HTML" style="margin-right: 10px;">
+    <img src="images/Tools/icons8-css.svg" alt="CSS" style="margin-right: 10px;">
+    <img src="images/Tools/icons8-javascript.svg" alt="JavaScript" style="margin-right: 10px;">
+    <img src="images/Tools/icons8-react.svg" alt="ReactJS" style="margin-right: 10px;">
+    <img src="images/Tools/icons8-redux.svg" alt="Redux" style="margin-right: 10px;">
+    
+    <img src="images/Tools/icons8-typescript.svg" alt="TypeScript">
+  </div>
+
+  <h3>Back-end development</h3>
+  <div style="display: flex; justify-content: center;">
+    <img src="images/Tools/icons8-nodejs.svg" alt="Node.js" style="margin-right: 10px;">
+    <img src="images/Tools/MongoDB.png" alt="MongoDB" height=48 style="margin-right: 10px;">
+    <img src="images/Tools/icons8-amazon-web-services.svg" alt="AWS" style="margin-right: 10px;">
+    <img src="images/Tools/icons8-firebase.svg" alt="Firebase" style="margin-right: 10px;">
+    <img src="images/Tools/icons8-mysql.svg" alt="MySQL">
+  </div>
+
+  <h3>Other tools</h3>
+  <div style="display: flex; justify-content: center;">
+    <img src="images/Tools/icons8-git.svg" alt="Git">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-postman-48.png" alt="Postman">
+  </div> 
+</div>
+<br/>  
