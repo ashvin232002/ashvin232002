@@ -11,7 +11,6 @@
 
 ## 🚀 Languages and Tools:
 
-<h2><strong>Languages and Tools</strong></h2>
 <div align="center">
   <h3>Languages</h3>
    <div style="display: flex; justify-content: center;">
